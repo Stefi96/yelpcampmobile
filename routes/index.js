@@ -87,7 +87,6 @@ router.get('/api', function(req, res) {
         //res.header("Access-Control-Allow-Origin", "*");
         //res.header("Access-Control-Allow-Headers", "X-Requested-With");
         res.status(200);
-        //console.log("da li se nesto desava sa ovim jebenim apijem");
         res.send({campgrounds: allCampgrounds, currentUser: req.user, a: null});
         /*if (err) {
             res.status(200);
