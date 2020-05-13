@@ -1,6 +1,6 @@
 # YelpCamp
 Live Demo
-To see the app in action, go to https://yelpcamp-iteh.herokuapp.com/
+To see the app in action, go to https://yelpcampmobile.herokuapp.com/
 # Features
 
 ## Authentication:
