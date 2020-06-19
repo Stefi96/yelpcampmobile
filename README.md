@@ -1,6 +1,5 @@
-# YelpCamp
-Live Demo
-To see the app in action, go to https://yelpcampmobile.herokuapp.com/
+# YelpCamp Mobile App
+Hosted at: https://yelpcampmobile.herokuapp.com/
 # Features
 
 ## Authentication:
