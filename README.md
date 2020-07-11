@@ -1,5 +1,4 @@
 # YelpCamp Mobile App
-Hosted at: https://yelpcampmobile.herokuapp.com/
 # Features
 
 ## Authentication:
